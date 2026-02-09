@@ -1,5 +1,4 @@
 package encapsulationProgram;
-
 public class EncapsulationTest {
 public static void main(String[] args) {
 	EncapsulationPrivate obj=new EncapsulationPrivate();
