@@ -1,5 +1,4 @@
 package encapsulationProgram;
-
 public class EncapsulationPrivate {
 	private int marks=0;
 	
