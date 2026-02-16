@@ -9,7 +9,7 @@ public class TryCatchtest00001 {
 		// TODO Auto-generated method stub
 		try {
 			FileInputStream obj = new FileInputStream("D:\\AfterOOPS\\encapsulation.txt");
-		} catch (Exception e) {
+		} catch (FileNotFoundException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
